@@ -9,15 +9,15 @@ Aprendiz e testemunha da área de qualidade de software (QA) e atualmente venho 
 
 <h3>Tecnologias e ferramentas</h3>
 <div style="display: inline_block">
-<img align="center" alt="-Csharp" height="30" width="40" src="cypress.png" />
-<img align="center" alt="-Csharp" height="30" width="40" src="postman.png" />
-<img align="center" alt="-Csharp" height="30" width="40" src="jira.png" />
-<img align="center" alt="-Csharp" height="30" width="40" src="js.png" />
+<img align="center" alt="-Csharp" height="30" width="40" src="img/cypress.png" />
+<img align="center" alt="-Csharp" height="30" width="40" src="img/postman.png" />
+<img align="center" alt="-Csharp" height="30" width="40" src="img/jira.png" />
+<img align="center" alt="-Csharp" height="30" width="40" src="img/js.png" />
 
 
 </div>
  
  <hr>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinagouveia&layout=compact&langs_count=7&theme=midnight-purple"/>
+ 
  
 
