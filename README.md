@@ -12,7 +12,7 @@ Estou em fase de aprendizado e compartilho a cultura de qualidade. Atuo hoje com
 <img align="center" alt="-Csharp" height="30" width="40" src="img/cypress.png"/>
 <img align="center" alt="-Csharp" height="30" width="40" src="img/postman.png"/>
 <img align="center" alt="-Csharp" height="30" width="40" src="img/jira.png" />
-<img align="center" alt="-Csharp" height="30" width="40" src="img/js.png" />
+<img align="center" alt="-Csharp" height="30" width="40" src="img/js.png"/>
 
 
 </div>
