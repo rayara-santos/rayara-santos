@@ -5,7 +5,7 @@
 
 <h1>Olá!</h1> 
 <h5>Tecnóloga em analise e desenvolvimento de sistema. <br>
-Estou em fase de aprendizado e compartilho a cultura de qualidade. Atuo hoje como Analista de qualidade de software (QA) e atualmente venho me aperfeiçoando em automação de testes (QE) </h5> 
+Aprendiz comprometida em disseminar a cultura de qualidade. Atuo hoje como Analista de qualidade de software (QA) e atualmente venho me aperfeiçoando em automação de testes (QE) </h5> 
 
 <h3>Tecnologias e ferramentas</h3>
 <div style="display: inline_block">
