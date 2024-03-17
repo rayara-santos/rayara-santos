@@ -4,7 +4,7 @@
 </div>
 
 <h1>Hello! </h1> 
-<h5> Quality Governance | Software Quality Assurance Analyst | QA Engineer   </h5> 
+<h5> Software Quality Assurance Analyst | QA Engineer   </h5> 
 
 <h3>Tecnologias e ferramentas</h3>
 <div style="display: inline_block">
